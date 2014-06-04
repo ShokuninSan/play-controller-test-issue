@@ -1,4 +1,4 @@
-name := """test"""
+name := """play-controller-test-issue"""
 
 version := "1.0-SNAPSHOT"
 
