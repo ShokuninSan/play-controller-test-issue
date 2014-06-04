@@ -1,0 +1,7 @@
+package controllers
+
+trait ExternalDependency
+
+class ExternalDependencyImpl extends ExternalDependency
+
+class ExternalDependencyMock extends ExternalDependency
